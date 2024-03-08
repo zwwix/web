@@ -2,12 +2,16 @@
 body
 {
   font-family: Space Mono, monospace;
-  text-align: center;
   line-height: 0.8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
 }
 footer
 {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 h1
 {
